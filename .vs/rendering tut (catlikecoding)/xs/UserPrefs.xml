@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{2C7FBE28-ABE7-F08A-44D0-D198E6CB584C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/rendering6/TangentSpaceVisualizer.cs">
+    <Files>
+      <File FileName="Assets/rendering6/Lighting Shader 1.shader" Line="12" Column="1" />
+      <File FileName="Assets/rendering6/My Lighting 1.cginc" Line="96" Column="1" />
+      <File FileName="Assets/rendering6/TangentSpaceVisualizer.cs" Line="48" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rendering tut (catlikecoding)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="rendering2" expanded="True" />
+              <Node name="rendering4" expanded="True" />
+              <Node name="rendering6" expanded="True">
+                <Node name="TangentSpaceVisualizer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="rendering tut (catlikecoding)" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
